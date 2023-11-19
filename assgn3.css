@@ -4,12 +4,12 @@ p:hover{
 }
 
 p::before{
-  content:'I'm red';
+  content:'I am red';
   color:red;
   font-weight:bold;
 }
 p::after{
-  content:'I'm yellow';
+  content:'I am yellow';
   color:yellow;
   font-weight:bold;
 }
