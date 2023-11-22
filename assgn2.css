@@ -9,6 +9,6 @@ color: white;
 a + a {
 background-color: red;
 }
-div ~ p{
+div ~ h1{
   background-color:yellow;
 }
