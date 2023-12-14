@@ -1,19 +1,19 @@
 /* Font Imports */
 @font-face {
     font-family: 'Drunk';
-    src: url(../fonts/DWW.otf);
+    src: url(/fonts/DWW.otf);
 }
 @font-face {
     font-family: 'SQLS';
-    src: url(../fonts/SQLSANSHEAVY.otf);
+    src: url(/fonts/SQLSANSHEAVY.otf);
 }
 @font-face {
     font-family: 'Averta';
-    src: url(../fonts/AVERTA.ttf);
+    src: url(/fonts/AVERTA.ttf);
 }
 @font-face {
     font-family: 'Circular';
-    src: url(../fonts/Circular.otf);
+    src: url(/fonts/Circular.otf);
 }
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
 /* General */
@@ -158,7 +158,6 @@ nav{
     height:100vh;
 }
 .head__inner__cover{
-    background-image: url(../img/someoneIknowG.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position-x: right;
