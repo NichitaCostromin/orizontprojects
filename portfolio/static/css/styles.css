@@ -1,19 +1,19 @@
 /* Font Imports */
 @font-face {
     font-family: 'Drunk';
-    src: url(/fonts/DWW.otf);
+    src: url(../DWW.otf);
 }
 @font-face {
     font-family: 'SQLS';
-    src: url(/fonts/SQLSANSHEAVY.otf);
+    src: url(../SQLSANSHEAVY.otf);
 }
 @font-face {
     font-family: 'Averta';
-    src: url(/fonts/AVERTA.ttf);
+    src: url(../AVERTA.ttf);
 }
 @font-face {
     font-family: 'Circular';
-    src: url(/fonts/Circular.otf);
+    src: url(../Circular.otf);
 }
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
 /* General */
@@ -308,13 +308,13 @@ nav{
     cursor: none;
 }
 .HENLEIN{
-    background-image: linear-gradient(to right, rgb(0 0 0 / 86%), rgb(202 211 210 / 28%)), url(../img/HLN.png);
+    background-image: linear-gradient(to right, rgb(0 0 0 / 86%), rgb(202 211 210 / 28%)), url(../HLN.png);
     background-repeat: no-repeat;
     background-position-x: center;
     background-size: cover;
 }
 .CPA{
-    background-image: linear-gradient(to right, rgb(0 0 0 / 86%), rgb(202 211 210 / 28%)), url(../img/CPA.png);
+    background-image: linear-gradient(to right, rgb(0 0 0 / 86%), rgb(202 211 210 / 28%)), url(../CPA.png);
     background-repeat: no-repeat;
     background-position-x: center;
     background-size: cover;
